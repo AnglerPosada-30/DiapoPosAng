@@ -2,7 +2,7 @@ import React from 'react';
 
 export function Slide({ data }) {
   // Enlace del documento generado
-  const docUrl = "https://docs.google.com/document/d/1sN-60BmF1Hmf69v4AztAlhVXOzm4FcAaRg84fDWo0RY/edit?usp=drive_web";
+  const docUrl = "https://docs.google.com/document/d/1Rbci8cnw-15cxpqyZS4J1SduGV8FH7InQMSSEpjFBhU/edit?usp=drive_web";
 
   return (
     <div className="slide-card">
